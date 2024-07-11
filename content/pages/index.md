@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: ''
-    subtitle: 'A Data Analyst & Digital Marketer, fac'
+    subtitle: 'A Data Analyst & Digital Marketer, fasc'
     text: >+
 
 
