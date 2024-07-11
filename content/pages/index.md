@@ -4,11 +4,20 @@ type: Page
 sections:
   - type: HeroSection
     title: ''
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: >-
+      A Data Analyst & Digital Marketer, fascinating about the work and task 
+      handling at own risk.
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      Skilled digital analyst & data along SEO expert with over 6 years of
+      experience. I am proficient in using analytical tools to optimize and
+      build solution models. I have received recognition for utilizing advanced
+      computing methodologies and providing accurate projections. I am an
+      enthusiastic team player with a [**talent for marketing, statistics,
+      analytics, and creativity**](https://www.linkedin.com/in/loyalhameed/). I
+      can manage multiple projects simultaneously and am responsive, empathetic,
+      and respectful to diverse online communities. I have experience in
+      creating engaging content, conducting detailed research, and writing
+      SEO-friendly and targeted content.
     actions:
       - type: Button
         label: Start Building
@@ -24,7 +33,6 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
