@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: ''
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: 'A Data Analyst & Digital Marketer, fac'
     text: >+
 
 
