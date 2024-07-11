@@ -4,7 +4,9 @@ type: Page
 sections:
   - type: HeroSection
     title: ''
-    subtitle: 'A Data Analyst & Digital Marketer, fasc'
+    subtitle: >-
+      A Data Analyst & Digital Marketer, fascinating about the work and task 
+      handling at own risk.
     text: >+
 
 
