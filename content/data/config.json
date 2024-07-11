@@ -21,6 +21,13 @@
                 "label": "My Career Path",
                 "url": "https://docs.netlify.com/visual-editor/overview/",
                 "underline": "hover"
+            },
+            {
+                "type": "Link",
+                "label": "Academic",
+                "url": "/",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
