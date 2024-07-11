@@ -5,10 +5,22 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: >+
+
+
+      Skilled digital analyst & data along SEO expert with over 6 years of
+      experience. I am proficient in using analytical tools to optimize and
+      build solution models. I have received recognition for utilizing advanced
+      computing methodologies and providing accurate projections. I am an
+      enthusiastic team player with a talent for marketing, statistics,
+      analytics, and creativity. I can manage multiple projects simultaneously
+      and am responsive, empathetic, and respectful to diverse online
+      communities. I have experience in creating engaging content, conducting
+      detailed research, and writing SEO-friendly and targeted content.
+
+
+
+
     actions:
       - type: Button
         label: Start Building
