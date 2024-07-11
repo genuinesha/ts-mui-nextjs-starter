@@ -36,7 +36,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/MRV_20210707_11_27_41.jpg
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
