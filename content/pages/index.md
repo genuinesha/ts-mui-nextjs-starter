@@ -36,7 +36,6 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/MRV_20210712_12_57_10.jpg
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
